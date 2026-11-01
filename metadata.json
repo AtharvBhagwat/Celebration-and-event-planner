@@ -1,0 +1,6 @@
+{
+  "name": "Nexus Technical Architecture & GenAI Studio",
+  "description": "Production-grade GenAI engineering and technical architecture studio adhering strictly to the Six Engineering Pillars: alignment, code quality, zero-trust security, efficiency, testing, and accessibility.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
